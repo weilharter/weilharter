@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @weilharter
+- 👀 I’m interested in Web Technologies
+- 🌱 I’m currently learning Typescript, React, Angular
